@@ -1,0 +1,11 @@
+23F-0527	Numan Asghar	F	B	A+	C	A+	2.60
+23F-0535	Rayan Asim	C+	A-	C+	F	F	1.66
+23F-0765	Jawad Jameel	C-	B	A-	A	F	2.46
+23F-0636	Rameez Akram	F	C-	B	D	B	1.73
+23L-1234	Ahmad Naeem	C+	A-	C+	B	A	3.06
+23P-5678	Ahmad Abdullah	A+	D	F	B	F	1.60
+23L-5678	Roman Reigns	F	F	A-	A+	C+	2.00
+23L-6438	Randy Ortan	C+	C-	C-	F	A-	1.86
+23i-1264	Shahzad Khurram	A-	A+	A-	B	A-	3.60
+23F-6534	Ahmad Shahzad	F	B	C-	A+	A-	2.46
+23F-6466	Numan Khurram	F	C+	F	A-	F	1.20

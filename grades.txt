@@ -1,0 +1,11 @@
+23F-0527	Numan Asghar	F	B	A+	C	A+
+23F-0535	Rayan Asim	C+	A-	C+	F	F
+23F-0765	Jawad Jameel	C-	B	A-	A	F
+23F-0636	Rameez Akram	F	C-	B	D	B
+23L-1234	Ahmad Naeem	C+	A-	C+	B	A
+23P-5678	Ahmad Abdullah	A+	D	F	B	F
+23L-5678	Roman Reigns	F	F	A-	A+	C+
+23L-6438	Randy Ortan	C+	C-	C-	F	A-
+23i-1264	Shahzad Khurram	A-	A+	A-	B	A-
+23F-6534	Ahmad Shahzad	F	B	C-	A+	A-
+23F-6466	Numan Khurram	F	C+	F	A-	F

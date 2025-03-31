@@ -1,0 +1,11 @@
+23F-0527	Numan Asghar	45	76	97	64	98
+23F-0535	Rayan Asim	67	87	67	45	34
+23F-0765	Jawad Jameel	56	78	87	90	45
+23F-0636	Rameez Akram	34	56	76	54	76
+23L-1234	Ahmad Naeem	67	87	67	78	90
+23P-5678	Ahmad Abdullah	99	54	46	76	25
+23L-5678	Roman Reigns	45	34	87	98	67
+23L-6438	Randy Ortan	67	56	56	45	87
+23i-1264	Shahzad Khurram	87	98	87	76	87
+23F-6534	Ahmad Shahzad	34	76	56	98	87
+23F-6466	Numan Khurram	34	65	46	86	45
